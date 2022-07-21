@@ -17,25 +17,25 @@
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://q1vnt9feu.bkt.clouddn.com/57.png</string>
+					<string>https://fenfa.190sq.cn/data/image/app/2022/07/21/a3a58f438cfbe3d840842f2f3715c5cc.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://q1vnt9feu.bkt.clouddn.com/512.png</string>
+					<string>https://fenfa.190sq.cn/data/image/app/2022/07/21/a3a58f438cfbe3d840842f2f3715c5cc.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>qihang.purbull.app</string>
+				<string>GalaxyBlitz</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
-				<string>software</string>
+				<string>GalaxyBlitz</string>
 				<key>title</key>
-				<string>EasyBtc</string>
+				<string>GalaxyBlitz</string>
 			</dict>
 		</dict>
 	</array>
